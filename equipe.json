@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Renan Fracalossi Mano da Silva",
+    "rm": "569610",
+    "turma": "1CCPX",
+    "tarefa": "Construção do golden dataset: perguntas, gabaritos e itens de segurança"
+  },
+  {
+    "nome": "Gabriel Barbosa Furin",
+    "rm": "572941",
+    "turma": "1CCPX",
+    "tarefa": "Implementação das versões dos agentes (V1 manual e V2 LangGraph) e execução dos testes"
+  },
+  {
+    "nome": "Gabriel de Almeida Santos",
+    "rm": "569395",
+    "turma": "1CCPX",
+    "tarefa": "Juiz LLM: rubrica, prompt e controle de sanidade do juiz"
+  },
+  {
+    "nome": "Herbert Soares de Jesus",
+    "rm": "571507",
+    "turma": "1CCPX",
+    "tarefa": "Métricas e pipeline de execução, comparação entre versões e geração dos resultados"
+  },
+  {
+    "nome": "Lucas Kiodi Moraca",
+    "rm": "571004",
+    "turma": "1CCPX",
+    "tarefa": "Comparação com a avaliação manual da Sprint 3, relatório final e repositório"
+  }
+]

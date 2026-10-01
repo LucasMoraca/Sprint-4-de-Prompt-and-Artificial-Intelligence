@@ -1,0 +1,9 @@
+openai>=1.40
+langgraph
+langchain-core
+langchain-openai
+langchain-google-genai   # só para a versão V3 (Gemini), opcional
+reportlab
+pandas
+numpy
+tabulate
