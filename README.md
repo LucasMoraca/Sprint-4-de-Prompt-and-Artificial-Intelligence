@@ -2,6 +2,16 @@
 
 EV Challenge — GoodWe | FIAP 1CCPX | Grupo 7
 
+Gabriel Barbosa Furin - RM: 572941
+
+Gabriel de Almeida Santos​ - RM: 569395
+
+Herbert Soares de Jesus​ - RM: 571507
+
+Lucas Kiodi Moraca - RM: 571004
+
+Renan Fracalossi Mano da Silva​ - RM: 569610
+
 Pipeline que substitui a checagem manual da Sprint 3 por métricas reprodutíveis: um **golden dataset** (33 itens com gabarito) executado contra **versões do mesmo agente**, julgado por um **LLM juiz** (+ checagens determinísticas), com comparação entre versões e com a avaliação manual anterior.
 
 ## Estrutura
